@@ -1,0 +1,1 @@
+const t={key:"v-ec97438a",path:"/modules/sass/sassscript/if-statements.html",title:"Sass @if Statements",lang:"en-US",frontmatter:{prev:"content-blocks",next:"for"},excerpt:"",headers:[],filePathRelative:"modules/sass/sassscript/if-statements.md"};export{t as data};

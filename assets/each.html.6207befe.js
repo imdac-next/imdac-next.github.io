@@ -1,0 +1,1 @@
+const s={key:"v-5793fa42",path:"/modules/sass/sassscript/each.html",title:"Sass @each",lang:"en-US",frontmatter:{prev:"for",next:"maps"},excerpt:"",headers:[],filePathRelative:"modules/sass/sassscript/each.md"};export{s as data};

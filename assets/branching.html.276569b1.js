@@ -1,0 +1,1 @@
+import{_ as e,o as a,a as t,b as n,d as c}from"./app.96040f5d.js";const r={},s={id:"git-branching",tabindex:"-1"},o=n("a",{class:"header-anchor",href:"#git-branching","aria-hidden":"true"},"#",-1),i=c(" Git Branching"),_=[o,i];function d(h,f){return a(),t("h1",s,_)}var l=e(r,[["render",d]]);export{l as default};

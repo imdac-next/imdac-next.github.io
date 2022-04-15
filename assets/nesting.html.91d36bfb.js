@@ -1,0 +1,1 @@
+const s={key:"v-531acf1a",path:"/modules/sass/sass-basics/nesting.html",title:"Nesting in Sass",lang:"en-US",frontmatter:{prev:"variables",next:"partials"},excerpt:"",headers:[],filePathRelative:"modules/sass/sass-basics/nesting.md"};export{s as data};

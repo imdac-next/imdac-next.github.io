@@ -1,0 +1,1 @@
+const s={key:"v-87a47928",path:"/modules/sass/sassscript/maps.html",title:"Sass maps",lang:"en-US",frontmatter:{prev:"each"},excerpt:"",headers:[],filePathRelative:"modules/sass/sassscript/maps.md"};export{s as data};

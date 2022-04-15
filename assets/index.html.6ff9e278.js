@@ -1,0 +1,1 @@
+const e={key:"v-3d5246a8",path:"/modules/vue/lifecycle-hooks/",title:"Lifecycle Hooks",lang:"en-US",frontmatter:{prev:"/modules/vue/root-component/",next:"/modules/vue/vue-computed-properties/"},excerpt:"",headers:[],filePathRelative:"modules/vue/lifecycle-hooks/README.md"};export{e as data};

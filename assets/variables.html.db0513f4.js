@@ -1,0 +1,1 @@
+const s={key:"v-857614e6",path:"/modules/sass/sass-basics/variables.html",title:"Sass Variables",lang:"en-US",frontmatter:{prev:"compiling",next:"nesting"},excerpt:"",headers:[{level:2,title:"Sass Variables vs CSS Variables",slug:"sass-variables-vs-css-variables",children:[]}],filePathRelative:"modules/sass/sass-basics/variables.md"};export{s as data};

@@ -1,0 +1,1 @@
+const s={key:"v-02b4c5a6",path:"/modules/sass/sassscript/for.html",title:"Sass @for",lang:"en-US",frontmatter:{prev:"if-statements",next:"each"},excerpt:"",headers:[],filePathRelative:"modules/sass/sassscript/for.md"};export{s as data};

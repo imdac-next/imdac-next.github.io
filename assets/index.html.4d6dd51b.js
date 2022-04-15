@@ -1,0 +1,1 @@
+const e={key:"v-867ea1b2",path:"/modules/vue/vue-watchers/",title:"Vue Watchers",lang:"en-US",frontmatter:{prev:"/modules/vue/vue-computed-properties/"},excerpt:"",headers:[],filePathRelative:"modules/vue/vue-watchers/README.md"};export{e as data};

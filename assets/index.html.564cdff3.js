@@ -1,0 +1,1 @@
+import{_ as e,o as s,a,b as t,d as o}from"./app.96040f5d.js";const c={},r={id:"sass",tabindex:"-1"},_=t("a",{class:"header-anchor",href:"#sass","aria-hidden":"true"},"#",-1),d=o(" Sass"),n=[_,d];function i(h,f){return s(),a("h1",r,n)}var p=e(c,[["render",i]]);export{p as default};

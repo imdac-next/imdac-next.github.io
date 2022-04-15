@@ -1,0 +1,1 @@
+const t={key:"v-86ff7804",path:"/modules/git/github-basics/",title:"GitHub Basics",lang:"en-US",frontmatter:{next:"creating"},excerpt:"",headers:[],filePathRelative:"modules/git/github-basics/README.md"};export{t as data};

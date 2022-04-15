@@ -1,0 +1,1 @@
+const e={key:"v-6d11de8b",path:"/modules/git/github-basics/pull-requests.html",title:"Pull Requests on GitHub",lang:"en-US",frontmatter:{prev:"working"},excerpt:"",headers:[],filePathRelative:"modules/git/github-basics/pull-requests.md"};export{e as data};

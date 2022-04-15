@@ -1,0 +1,1 @@
+const s={key:"v-31430f0b",path:"/modules/sass/sass-basics/",title:"Sass Basics",lang:"en-US",frontmatter:{next:"compiling"},excerpt:"",headers:[],filePathRelative:"modules/sass/sass-basics/README.md"};export{s as data};

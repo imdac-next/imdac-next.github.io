@@ -1,0 +1,1 @@
+const s={key:"v-da90eda2",path:"/modules/sass/sassscript/comments.html",title:"Sass Comments",lang:"en-US",frontmatter:{prev:"/modules/sass/sassscript/",next:"math"},excerpt:"",headers:[],filePathRelative:"modules/sass/sassscript/comments.md"};export{s as data};

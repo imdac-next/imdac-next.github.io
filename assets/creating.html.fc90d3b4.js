@@ -1,0 +1,1 @@
+const e={key:"v-3ab89c2e",path:"/modules/git/github-pages/creating.html",title:"GitHub Pages",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"modules/git/github-pages/creating.md"};export{e as data};

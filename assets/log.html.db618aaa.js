@@ -1,0 +1,1 @@
+const t={key:"v-7524daf4",path:"/modules/git/git-basics/log.html",title:"View Commit Log",lang:"en-US",frontmatter:{prev:"commit",next:"workflow"},excerpt:"",headers:[],filePathRelative:"modules/git/git-basics/log.md"};export{t as data};

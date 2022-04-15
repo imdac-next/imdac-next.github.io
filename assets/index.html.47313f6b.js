@@ -1,0 +1,1 @@
+const e={key:"v-6642cd9c",path:"/modules/vue/vue-form-handling/",title:"Form Handling",lang:"en-US",frontmatter:{prev:"../vue-event-handling/modifiers"},excerpt:"",headers:[{level:2,title:"Basic Usage",slug:"basic-usage",children:[]},{level:2,title:"Form Handling",slug:"form-handling-1",children:[]}],filePathRelative:"modules/vue/vue-form-handling/README.md"};export{e as data};

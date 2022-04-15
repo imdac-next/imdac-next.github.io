@@ -1,0 +1,1 @@
+const s={key:"v-32f45c14",path:"/modules/sass/sassscript/",title:"SassScript",lang:"en-US",frontmatter:{next:"comments"},excerpt:"",headers:[],filePathRelative:"modules/sass/sassscript/README.md"};export{s as data};

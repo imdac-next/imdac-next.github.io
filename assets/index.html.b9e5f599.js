@@ -1,0 +1,1 @@
+import{_ as e,o as t,a,b as s,d as o}from"./app.96040f5d.js";const c={},r={id:"git-github",tabindex:"-1"},i=s("a",{class:"header-anchor",href:"#git-github","aria-hidden":"true"},"#",-1),_=o(" Git & GitHub"),d=[i,_];function n(h,f){return t(),a("h1",r,d)}var l=e(c,[["render",n]]);export{l as default};

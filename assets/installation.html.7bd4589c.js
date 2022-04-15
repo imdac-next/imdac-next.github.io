@@ -1,0 +1,1 @@
+const e={key:"v-28e6c726",path:"/modules/vue/vue-basics/installation.html",title:"Installation",lang:"en-US",frontmatter:{prev:"./",next:"application"},excerpt:"",headers:[],filePathRelative:"modules/vue/vue-basics/installation.md"};export{e as data};

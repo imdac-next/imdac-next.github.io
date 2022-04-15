@@ -1,0 +1,1 @@
+const t={key:"v-dcd686ae",path:"/modules/git/git-basics/workflow.html",title:"Git Workflow",lang:"en-US",frontmatter:{prev:"log",next:"remote"},excerpt:"",headers:[],filePathRelative:"modules/git/git-basics/workflow.md"};export{t as data};

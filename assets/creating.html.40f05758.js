@@ -1,0 +1,1 @@
+const t={key:"v-2e2072fc",path:"/modules/git/github-basics/creating.html",title:"GitHub Repository",lang:"en-US",frontmatter:{prev:"/modules/git/github-basics/",next:"forking"},excerpt:"",headers:[{level:2,title:"Creating a Repository on GitHub",slug:"creating-a-repository-on-github",children:[]}],filePathRelative:"modules/git/github-basics/creating.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-6106cd3a",path:"/modules/vue/vue-basics/list-rendering.html",title:"List Rendering",lang:"en-US",frontmatter:{prev:"conditional-rendering"},excerpt:"",headers:[{level:2,title:"v-for",slug:"v-for",children:[]},{level:2,title:"Repeatedly Render",slug:"repeatedly-render",children:[]}],filePathRelative:"modules/vue/vue-basics/list-rendering.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-2ea65862",path:"/modules/vue/vue-basics/application.html",title:"Application Instance",lang:"en-US",frontmatter:{prev:"./",next:"declarative-rendering"},excerpt:"",headers:[],filePathRelative:"modules/vue/vue-basics/application.md"};export{e as data};

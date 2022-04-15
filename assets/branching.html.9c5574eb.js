@@ -1,0 +1,1 @@
+const t={key:"v-05fcdb8a",path:"/modules/git/git-basics/branching.html",title:"Git Branching",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"modules/git/git-basics/branching.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-2fbbf7fc",path:"/modules/sass/sass-basics/parent-selector.html",title:"Sass Parent Selector",lang:"en-US",frontmatter:{prev:"extend"},excerpt:"",headers:[],filePathRelative:"modules/sass/sass-basics/parent-selector.md"};export{e as data};
