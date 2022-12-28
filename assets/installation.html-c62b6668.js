@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3ffb9d16","path":"/modules/bootstrap/bootstrap-basics/installation.html","title":"Installing Bootstrap","lang":"en-US","frontmatter":{"prev":"/modules/bootstrap/bootstrap-basics/","next":"template"},"headers":[],"git":{},"filePathRelative":"modules/bootstrap/bootstrap-basics/installation.md"}');export{t as data};
